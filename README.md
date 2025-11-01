@@ -150,10 +150,10 @@ github-doc/
 
 ```bash
 # Clone the repository
-git clone https://github.com/Raj/github-doc.git
+git clone https://github.com/CodewithEvilxd/gitdocgen.git
 
 # Navigate to project directory
-cd github-doc
+cd gitdocgen
 
 # Install dependencies
 npm install
@@ -318,17 +318,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Project Link:** [https://github.com/Raj/github-doc](https://github.com/Raj/github-doc)
+**Project Link:** [https://github.com/CodewithEvilxd/gitdocgen](https://github.com/CodewithEvilxd/gitdocgen)
 
-**Author:** [Raj](https://github.com/Raj)
+**Author:** [CodewithEvilxd](https://github.com/CodewithEvilxd)
 
-**Issues:** [Report bugs or request features](https://github.com/Raj/github-doc/issues)
+**Issues:** [Report bugs or request features](https://github.com/CodewithEvilxd/gitdocgen/issues)
 
 ---
 
 <div align="center">
 
-**Built with ❤️ by Raj**
+**Built with ❤️ by CodewithEvilxd**
 
 *Transform your GitHub repositories into professional documentation with AI-powered insights*
 
